@@ -42,7 +42,3 @@ optional:
 --robust_classifier (changes to robust classifier)
 --xzeroprediction (adds xzero-prediction before classifier guidance)
 ```
-
-
-## Model files
-[Download on Huggingface](https://huggingface.co/vaeth/nrCG)
